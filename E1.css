@@ -1,1 +1,21 @@
-afdx
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #07bcea; 
+}
+
+.container {
+    text-align: center;
+    padding: 50px; 
+    background-color: #74007a;
+    border-radius: 10px; 
+    width: 50%; 
+}
+
+h1 {
+    color: #333333; 
+    font-size: 36px; 
+    text-align: center;
+}
